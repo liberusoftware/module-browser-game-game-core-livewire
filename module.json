@@ -3,7 +3,7 @@
   "name": "browser-game-game-core-livewire",
   "display_name": "Browser Game Game Core Livewire",
   "description": "Accessible server-driven world status and maintenance surface.",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "category": "presentation",
   "provider": "Liberu\\BrowserGame\\GameCoreLivewire\\GameCoreLivewireServiceProvider",
   "requires": {
